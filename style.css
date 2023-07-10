@@ -1,0 +1,62 @@
+
+body {
+    background-color: black;
+    margin: 0px;
+}
+main {
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    margin: 0% 5%;
+}
+.secao_1 {
+    color: white;
+    font-family: 'Arimo', sans-serif;
+    width: 600px;
+    padding: 55px;
+}
+.img_logo {
+    margin-left: 25px;
+}
+h1 {
+    font-weight: normal;
+    font-size: 110px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    line-height: 99px;
+}
+p {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    width: 460px;
+    margin-bottom: 70px;
+}
+.botao {
+    border: 2px solid #2BFF00;
+    padding: 16px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.secao_1_redesS {
+    display: flex;
+    margin-top: 70px;
+    font-weight: none;
+    font-size: 14px;
+    align-content: flex-end;
+    gap: 100px ;
+} 
+
+ul {
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+}
+
+.logo_redes {
+    width: 26px;
+}
+
+.secao_2 {
+    padding-left: 0%;
+}
